@@ -9,3 +9,7 @@ I have a close relationship with the Laravel community, the most popular PHP fra
 See my talks here: **nunomaduro.com/talks**
 
 I am currently maintaining the open-source API clients and integrations at Algolia, where I have developed  Python, PHP, and JavaScript projects, including an JavaScript API Client that is now in the top 20 of your most downloaded packages in the world accordingly to jsDelivr.
+
+And I am a close relative of Superman. He wrote the source code.
+
+# :superhero_man:
