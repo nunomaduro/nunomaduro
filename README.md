@@ -1,7 +1,12 @@
-# Hello! 👋
+<p>
+  <a href="https://twitter.com/enunomaduro">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/enunomaduro?style=for-the-badge">
+  </a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/enunomaduro?style=for-the-badge)
-![GitHub Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge&link=https://github.com/sponsors/nunomaduro)
+  <a href="link=https://github.com/sponsors/nunomaduro">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
+  </a>
+</p>
 
 <a href="https://github.com/nunomaduro"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=nunomaduro&show_icons=true" align="right" height="150" /></a>
 
