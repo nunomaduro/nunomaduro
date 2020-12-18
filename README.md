@@ -8,9 +8,7 @@
   </a>
 </p>
 
-<a href="https://github.com/nunomaduro"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=nunomaduro&show_icons=true" align="right" height="150" /></a>
-
-- 🔭 Software Engineer at [Laravel](laravel.com) — working on [Forge](https://forge.laravel.com) & [Vapor](https://vapor.laravel.com).
+- 🔭 Software Engineer at [Laravel](laravel.com) — working on [Forge](https://forge.laravel.com) and [Vapor](https://vapor.laravel.com).
 - 🚀 Creator of [Pest PHP](https://pestphp.com), [PHP Insights](https://phpinsights.com), [Laravel Zero](https://laravel-zero.com), [Collision](https://github.com/nunomaduro/collision), [Larastan](https://github.com/nunomaduro/larastan), and more.
 - 🎤 [Spoken in 11 different countries](https://nunomaduro.com/talks), including conferences such as PHP Serbia, Laracon EU, ForumPHP France, or Laravel Live India.
 - ⚡  Close relationship with the [Laravel](laravel.com) community, the most popular PHP framework in the world.
