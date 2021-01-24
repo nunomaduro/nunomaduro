@@ -5,6 +5,6 @@
 🏗 **Work**
 
 - [x] Release Pest v1.0
-- [x] Add Parallel Testing to Laravel 9
+- [x] Add Parallel Testing to Laravel
 - [ ] Make Paratest compatible with Pest
 - [ ] Make Pest compatible with PHPUnit 10
