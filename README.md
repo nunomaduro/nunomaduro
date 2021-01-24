@@ -1,8 +1,6 @@
 # Work journal
 
-## January, 2021
-
-🏗 **Work**
+## 🏗 January, 2021
 
 - [x] Release Pest v1.0
 - [x] Add Parallel Testing to Laravel
